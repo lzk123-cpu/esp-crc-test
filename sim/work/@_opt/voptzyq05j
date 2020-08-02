@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+dD:\learn\lesson8_lcd1602\sim
+T_opt
+V379AMQgj=NOmnY740gQN=2
+04 7 4 work tb_crc1 fast 0
+=1-40b034502b0a-5f1f9cad-382-169c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vcrc1
+I?obWMNFMei[@6e`zNG<5C0
+VhZLK[Y10fg@oOcW5oZEM>2
+Z0 dD:\xy\sim
+w1595857893
+Z1 8./../design/crc1.v
+Z2 F./../design/crc1.v
+L0 1
+Z3 OL;L;10.1c;51
+r1
+31
+Z4 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z5 !s90 -reportprogress|300|./../design/crc1.v|
+Z6 !s107 ./../design/crc1.v|
+!s100 3QnNedQ`PXnl_SVcnnF881
+!s108 1595905301.675000
+!i10b 1
+!s85 0
+vcrc_test
+IHQNL_Mn[bS1FXRn7Ye7c71
+VO7DH;Xh??Qgm^2`M>eNYI3
+Z7 dD:\xy\sim
+w1595905981
+R1
+R2
+L0 1
+R3
+r1
+31
+R5
+R4
+R6
+!s100 M0K>j8kaF<j_OH73>STb@3
+!i10b 1
+!s85 0
+!s108 1595907245.147000
+vtb_crc1
+IhXnSgW==EXJ897J`zz4[h1
+V:T3`k@Ibib]K8RM8Z@UaU3
+R7
+w1595907235
+8./tb_crc1.v
+F./tb_crc1.v
+L0 2
+R3
+r1
+31
+R4
+!s90 -reportprogress|300|./tb_crc1.v|
+!s100 ]kFoO6T0]KEL;CVO9CiCV1
+!s108 1595907244.898000
+!s107 ./tb_crc1.v|
+!i10b 1
+!s85 0

@@ -1,0 +1,1 @@
+--debug "typical" --relax -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_crc3_behav" --prj "D:/xy/crc_test/vivado_prj/crc_test/crc_test.sim/sim_1/behav/tb_crc3.prj" "xil_defaultlib.tb_crc3" "xil_defaultlib.glbl" 

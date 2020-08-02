@@ -1,0 +1,8 @@
+quit			-sim
+.main			clear
+vlib			work
+vlog			./tb_crc1.v
+vlog			./../design/crc1.v
+vsim			-voptargs=+acc	work.tb_crc1
+add		wave	/tb_crc1/crc1_inst/*
+run		5ms

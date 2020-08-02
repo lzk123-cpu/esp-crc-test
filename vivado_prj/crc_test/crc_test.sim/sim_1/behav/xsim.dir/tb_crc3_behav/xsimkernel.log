@@ -1,0 +1,5 @@
+Running: xsim.dir/tb_crc3_behav/xsimk.exe -simmode gui -wdb tb_crc3_behav.wdb -simrunnum 0 -socket 37018
+Design successfully loaded
+Design Loading CPU Usage: 436 ms
+Simulation completed
+Simulation CPU Usage: 14429 ms
